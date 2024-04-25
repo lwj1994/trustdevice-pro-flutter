@@ -19,7 +19,7 @@ A new Flutter project.
   s.static_framework = true
 
   s.dependency 'Flutter'
-  s.dependency 'TrustDecisionPro', '4.2.6.1'
+  s.dependency 'TrustDecisionPro', '4.2.6.4'
   s.dependency 'TrustDecisionCaptcha', '2.1.8.4'
   s.platform = :ios, '9.0'
 
